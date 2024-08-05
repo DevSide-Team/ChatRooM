@@ -9,4 +9,4 @@ A simple chatroom, including server and client.<br/>
 Please install <code>Python 3.11</code> and use <code>pip</code> to install these lib before using: <br/>
 <code>colorama, fs, ttkbootstrap</code><br/>
 <br/>
-By Explore Team
+By DevSide Team
